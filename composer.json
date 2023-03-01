@@ -9,15 +9,15 @@
         "barryvdh/laravel-dompdf": "^1.0",
         "fruitcake/laravel-cors": "^3.0",
         "guzzlehttp/guzzle": "^7.4",
-        "laravel/framework": "^9.10",
+        "laravel/framework": "^9.13",
         "laravel/sanctum": "^2.15",
         "laravel/tinker": "^2.7"
     },
     "require-dev": {
         "fakerphp/faker": "^1.19.0",
-        "laravel/sail": "^1.14.0",
+        "laravel/sail": "^1.14.6",
         "mockery/mockery": "^1.5.0",
-        "nunomaduro/collision": "^6.1",
+        "nunomaduro/collision": "^6.2",
         "phpunit/phpunit": "^9.5.20",
         "spatie/laravel-ignition": "^1.2"
     },
