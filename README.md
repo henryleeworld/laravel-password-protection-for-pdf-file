@@ -1,4 +1,4 @@
-# Laravel 10 密碼保護 PDF 檔案
+# Laravel 11 密碼保護 PDF 檔案
 
 現代的數字工作中的資料總是處於不安全狀態，容易被洩漏或偷竊，使用密碼保護文件時，輸入正確密碼的人方可以存取檔案。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/enoS8eH.png)
+![](https://i.imgur.com/7FI6V5k.gif)
 > 檔案密碼無法與變更權限的密碼相同
