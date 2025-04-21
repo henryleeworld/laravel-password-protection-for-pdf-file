@@ -1,4 +1,4 @@
-# Laravel 11 密碼保護 PDF 檔案
+# Laravel 12 密碼保護 PDF 檔案
 
 現代的數字工作中的資料總是處於不安全狀態，容易被洩漏或偷竊，使用密碼保護文件時，輸入正確密碼的人方可以存取檔案。
 
@@ -16,11 +16,15 @@ $ composer install
 ```sh
 $ php artisan key:generate
 ```
+- 執行 __Artisan__ 指令的 __migrate__ 來執行所有未完成的遷移。
+```sh
+$ php artisan migrate
+```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 - 你可以經由 `/pdf/encrypt/` 來進行 PDF 加密。
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/7FI6V5k.gif)
+![](https://i.imgur.com/oT5tbB9.gif)
 > 檔案密碼無法與變更權限的密碼相同
