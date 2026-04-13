@@ -1,4 +1,4 @@
-# Laravel 12 密碼保護 PDF 檔案
+# Laravel 13 密碼保護 PDF 檔案
 
 現代的數字工作中的資料總是處於不安全狀態，容易被洩漏或偷竊，使用密碼保護文件時，輸入正確密碼的人方可以存取檔案。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/oT5tbB9.gif)
+![](https://i.imgur.com/AiV3J92.gif)
 > 檔案密碼無法與變更權限的密碼相同
